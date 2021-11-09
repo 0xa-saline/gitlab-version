@@ -97,7 +97,7 @@ def query_gitlabce_tags():
 8.0.0-ce.0
 ```
 
-直接提取[jas502n/GitlabVer](https://github.com/jas502n/GitlabVer) 里面的文件hash以及匹配[gitlab_versions_map.txt](https://github.com/righel/gitlab-version-nse/blob/main/gitlab_versions_map.txt)得到常见的272个。
+直接提取[jas502n/GitlabVer](https://github.com/jas502n/GitlabVer) 里面的文件hash以及匹配[gitlab_versions_map.txt](https://github.com/righel/gitlab-version-nse/blob/main/gitlab_versions_map.txt)得到常见的251个。
 
 
 
