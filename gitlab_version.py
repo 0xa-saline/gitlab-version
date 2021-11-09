@@ -32,7 +32,6 @@ def get_finger(path):
 
 
 def gitlab(url):
-    global fingers
     path =  get_path(url)
     if path:
         #print path
